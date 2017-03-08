@@ -11,4 +11,4 @@ else
   $OUTPUT_FILE=$4
 
   pg_dump -U $USER -h $HOST $DATABASE > $OUTPUT_FILE
- fi
+fi
