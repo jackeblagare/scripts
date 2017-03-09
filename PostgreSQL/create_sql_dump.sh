@@ -2,7 +2,7 @@
 
 if [ $# -eq 0]
 then
-  echo "No arguments passed. USAGE: ./create_sql_dump <USER> <HOST> <OUTPUT_FILE>"
+  echo "No arguments passed. USAGE: ./create_sql_dump.sh <USER> <HOST> <OUTPUT_FILE>"
   exit 2
 else
   $USER=$1
