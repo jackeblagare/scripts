@@ -1,7 +1,7 @@
 systems_administration
 ======================
 
-Links
+Contents
 ======================
 * Documentation
   * [Linux Tools and Utilities](/Documentation/linux_tools.md)
